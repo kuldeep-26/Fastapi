@@ -1,0 +1,9 @@
+.venv
+
+pyproject.toml
+
+requirements.txt
+
+uv.lock
+
+__pycache__
